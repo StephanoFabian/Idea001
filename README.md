@@ -1,5 +1,8 @@
 # Idea001
 trabajo001
 
+## Este es tu primer proyecto!!
 
-"gracias arita"
+
+Con fe!! \
+Gracias Arita :p
